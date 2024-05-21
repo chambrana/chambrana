@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bom dia, Boa tarde, Boa noite Bem vindo ao meu perfil 🍮
 
-<!--
-**chambrana/chambrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Théo Henrique
 
-Here are some ideas to get you started:
+- Sou estudante da [Alura](https://www.alura.com.br)
+- Estou aprendendo linguagem de javaScript
+- Uso esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Esse é meu email para contato 📫
+
+00001089657778sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/g9I23ev4eGgAAAAC/emmy-amy-poehler.gif)
